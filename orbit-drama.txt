@@ -1,6 +1,6 @@
 I am NOT apart of Orbit anymore.
 
-I deleted the domain on FreeDNS (https://freedns.afraid.org/), and then someone GRABBED that domain, and now has an indefinitely loading page as I am typing this (7/11/25).
+I deleted the domain on FreeDNS (https://freedns.afraid.org/), and someone GRABBED that domain, and now has an indefinitely loading page as I am typing this (7/11/25).
 Before this, the domain was just had a black background with text (unfortunately, there is no archive of "orbit.nekoweb.org") that blended into the page, basically an iframe.
 The one IP to the domain was GitHub Pages (185.199.111.153)
 
