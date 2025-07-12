@@ -1,13 +1,17 @@
+# = Important detail
+
 I am NOT apart of Orbit anymore.
 
 I deleted the domain on FreeDNS (https://freedns.afraid.org/), and someone GRABBED that domain, and now has an indefinitely loading page as I am typing this (7/11/25).
-Before this, the domain was just had a black background with text (unfortunately, there is no archive of "orbit.nekoweb.org") that blended into the page, basically an iframe.
+Before this, the domain was just had a black background with text (unfortunately, there is no archive of "orbit.nekoweb.org") that blended into the page, basically an iframe. - #
 The one IP to the domain was GitHub Pages (185.199.111.153)
 
-To clarify, Github Pages has VERY good security, and I have 2FA on my Github account.
-Saying that some users repository using a multi-million dollar company's product got "hacked" is illogical.
+ojthedev (OJ) USED to have full control over what content has been shown THROUGH that iframe ("orbit.nekoweb.org"). - #
 
-More information at https://wilway.today/The%20orbit%20files%20updated.pdf by poqwert3029 on Discord (https://discord.com/users/821461607393656853)
+To clarify, Github Pages has VERY good security, and I have 2FA on my Github account.
+Saying that some users repository using a multi-million dollar company's product got "hacked" is illogical. - #
+
+More information at https://wilway.today/The%20orbit%20files%20updated.pdf by poqwert3029 on Discord (https://discord.com/users/821461607393656853) - #
 
 At this time, ojthedev (https://discord.com/users/1384576852781432904) has blocked me.
 
